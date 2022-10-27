@@ -21,7 +21,9 @@ I used with- react, nodejs, amongoDB-this what need to install
 I used with VisuaStudiolCode
 
 to run:
-serverside: cd node_project
+serverside:
+npm install react-scripts --save
+cd node_project
 npm run dev
 client side: cd project
 npm start
