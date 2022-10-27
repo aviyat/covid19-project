@@ -14,6 +14,4 @@ router.patch('/updateVaccination/:memberId', vaccination.updateVaccination)
 
 
 
-
-
 module.exports = router
